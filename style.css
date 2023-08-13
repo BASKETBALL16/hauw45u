@@ -1,0 +1,32 @@
+.heading{
+    width:100%;
+    font-size:23px;
+    margin:0px;
+}
+
+#start_model{
+    width:80px;
+    font-size:20px
+}
+
+body{
+    background-size:cover;
+}
+
+footer{
+    position:fixed;
+    bottom:0px;
+    background-color:burlywood;
+    width:100%;
+    height:23px;
+    font-size:16px;
+}
+
+canvas{
+   
+        border-color: white;
+        border-width:5px;
+        border-style:solid;
+        margin-top:123px;
+    }
+
